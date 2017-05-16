@@ -1,0 +1,16 @@
+{
+    "version": "0.1.0",
+    "name": "in.edelworks.sharedpreferences",
+    "cordova_name": "sharedpreferences",
+    "description": "Shared Preferences",
+    "license": "Apache 2.0",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
